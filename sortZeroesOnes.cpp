@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//Array -  Sort an array of 0s, 1s and 2s 
 int main()
 {
     int n;
